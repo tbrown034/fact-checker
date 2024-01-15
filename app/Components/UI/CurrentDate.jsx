@@ -12,5 +12,5 @@ export default function CurrentDate() {
   });
 
   // Return JSX that includes the formatted date string
-  return <div className="  font-semibold">{dateString}</div>;
+  return <div className="font-semibold ">{dateString}</div>;
 }
