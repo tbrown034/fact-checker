@@ -4,8 +4,8 @@ export default function Header() {
       <div className="flex items-center gap-2 text-2xl">
         <i className="fa-solid fa-bars"></i>
         <div className="font-bold ">
-          <span>Copy</span>
-          <span>Chief</span>
+          <span>Fact</span>
+          <span>Checker</span>
         </div>
       </div>
       <button className="p-2 text-xs bg-sky-900 hover:bg-sky-700 active:bg-sky-600 text-sky-100 rounded-xl">
